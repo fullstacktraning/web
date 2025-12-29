@@ -1,0 +1,48 @@
+FLEX
+    1D dimensional
+
+GRID
+    ROWS & COLUMNS
+
+MEDIA QUERIES (RWD)                                 End to End Project
+                                                          &
+React                                               CI / CD Pipeline
+
+API Development (DJANGO , FLASK & FAST API)
+
+DataBases
+    NoSQL
+      SQL - MySQL
+      MongoDB / CassandraDB
+
+Gen AI & Agentic AI
+
+CI / CD Pipeline
+
+    Git & GitLab / GitHub / BitBucket
+
+    Jenkins
+
+    Docker
+
+    Kubernetes
+
+    AWS / Microsoft Azure
+
+Font Awesome
+************
+    CDN -- Content Delivery Network
+    head section of web page
+    <i></i>
+    Ex.
+        CSS Classes
+        ************
+        facebook --- fa fa-facebook
+
+        rupee -- fa fa-inr
+
+        user -- fa fa-user
+
+        dollar -- fa fa-dollar
+
+
