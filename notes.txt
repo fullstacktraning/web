@@ -46,3 +46,14 @@ Font Awesome
         dollar -- fa fa-dollar
 
 
+1) display : flex;
+
+2) gap
+
+3) justify-content : flex-start / center / flex-end / space-between / space-around / space-evenly;
+
+4) align-items : flex-start / center / flex-end / stretch;
+
+5) flex-direction : row / row-reverse / column / column-reverse;
+
+6) flex-wrap : wrap / wrap-reverse / nowrap;
